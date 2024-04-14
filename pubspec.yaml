@@ -1,0 +1,41 @@
+name: bca
+description: A new Flutter project.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.1.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^1.0.2
+  get: ^4.6.6
+  get_cli: ^1.8.4
+  flutter_svg: ^2.0.9
+  styled_widget: ^0.4.1
+  carousel_slider: ^4.2.1
+  url_launcher: ^6.2.4
+  nfc_manager: ^3.4.0
+  pull_to_refresh: ^2.0.0
+  local_auth: ^2.1.8
+  appbar_animated: ^0.0.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+     - assets/icons/
+     - assets/icons/iconly_svg/bold/
+     - assets/icons/iconly_svg/light/
+     - assets/icons/bca/
+     - assets/images/
