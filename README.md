@@ -18,6 +18,8 @@ samples, guidance on mobile development, and a full API reference.
 
 # Result 
 ## Login
-    ![alt text](https://github.com/erman123456/bca-ui/assets/images/result_login.png?raw=true)
+    ![alt text](https://github.com/erman123456/bca-ui/blob/origin/assets/images/result_login.png?raw=true)
+![alt text](https://github.com/erman123456/bca-ui/blob/origin/assets/images/result_login.png?raw=true)
 ## Home
-    ![alt text](https://github.com/erman123456/bca-ui/assets/images/result_home.png?raw=true)
+    ![alt text](https://github.com/erman123456/bca-ui/blob/origin/assets/images/result_home.png?raw=true)
+![alt text](https://github.com/erman123456/bca-ui/blob/origin/assets/images/result_home.png?raw=true)
